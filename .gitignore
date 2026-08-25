@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+.env
+*.log
+amazon_scan_results.csv
